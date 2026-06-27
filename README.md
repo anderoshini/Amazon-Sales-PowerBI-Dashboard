@@ -1,4 +1,3 @@
-# Amazon-Sales-PowerBI-Dashboard
 # 📊 Amazon Sales Performance Dashboard
 
 ## 📌 Project Overview
@@ -89,24 +88,6 @@ The objective of this dashboard is to help decision-makers:
 - Profit margin remained around 11%.
 - Interactive filters allow users to analyze data by date, category, and city.
 
----
-
-## 📷 Dashboard Preview
-
-### Executive Dashboard
-
-![Dashboard](dashboard.png)
-
-### Report Tooltip
-
-![Tooltip](tooltip.png)
-
-### Drill-through Page
-
-![Drill Through](drillthrough.png)
-
----
-
 ## 📌 Data Modeling
 
 A Star Schema was used in this project.
@@ -163,7 +144,5 @@ Through this project I learned:
 - Building KPI cards
 - Using slicers, tooltips, and drill-through pages
 - Applying business intelligence concepts to support decision-making
-
-LinkedIn: https://www.linkedin.com/in/your-link/
 
 GitHub: https://github.com/anderoshini
